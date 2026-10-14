@@ -1,4 +1,5 @@
-# AI Attack Evidence & Compensating Controls 🕵️‍♂️🛡️A comprehensive, deeply detailed guide outlining the forensic evidence of cyberattacks targeting Artificial Intelligence (AI) and Large Language Models (LLMs), alongside the architectural compensating controls required to secure them.
+# AI Attack Evidence & Compensating Controls
+A comprehensive, deeply detailed guide outlining the forensic evidence of cyberattacks targeting Artificial Intelligence (AI) and Large Language Models (LLMs), alongside the architectural compensating controls required to secure them.
 
 As AI systems transition from experimental sandboxes to mission-critical production environments, detecting adversarial behavior becomes paramount. This document breaks down exactly how these attacks manifest in system logs, telemetry, and output behavior, and prescribes strict, defense-in-depth security controls to neutralize them.
 
